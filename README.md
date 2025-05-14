@@ -1,5 +1,5 @@
 # How-to-bind-the-CSV-data-in-WPF-Chart
-This sample demonstrates how to bind the CSV data to the WPF SfChart with the following steps.
+This sample demonstrates how to bind the CSV data to the [WPF SfChart](https://www.syncfusion.com/wpf-controls) with the following steps.
 
  Step 1: Initialize a data model that represents a data point for the Chart.
 
@@ -68,7 +68,7 @@ public class ViewModel
 }
 
 ```
-Step 4: Bind the converted data collection to the SfChart.
+Step 4: Bind the converted data collection to the [SfChart](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.SfChart.html).
 
 **[XAML]**
 
@@ -82,6 +82,10 @@ Step 4: Bind the converted data collection to the SfChart.
 
 ![Binding CSV data to the WPF Charts](https://user-images.githubusercontent.com/61832185/202696426-136c3817-3db7-4e80-8196-ebdea3d4d84a.png)
 
-## <a name="troubleshooting"></a>Troubleshooting ##
-### Path too long exception
-If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [how to bind the CSV data in WPF chart control?](https://support.syncfusion.com/kb/article/12325/how-to-bind-the-csv-data-in-wpf-chart-sfchart).
