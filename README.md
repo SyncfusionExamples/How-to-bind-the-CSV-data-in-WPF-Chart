@@ -88,4 +88,4 @@ Step 4: Bind the converted data collection to the [SfChart](https://help.syncfus
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [how to bind the CSV data in WPF chart control?](https://support.syncfusion.com/kb/article/12325/how-to-bind-the-csv-data-in-wpf-chart-sfchart).
+For more details, refer to the KB on [how to bind the CSV data in WPF chart control](https://support.syncfusion.com/kb/article/12325/how-to-bind-the-csv-data-in-wpf-chart-sfchart).
